@@ -33,11 +33,11 @@ CryptoCoin is a modern and fully responsive cryptocurrency website template desi
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/cryptocoin-template.git
+   git clone https://github.com/your-username/cryptocoin.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd cryptocoin-template
+   cd cryptocoin
    ```
 3. Open `index.html` in your browser to view the template.
 
@@ -50,4 +50,4 @@ CryptoCoin is a modern and fully responsive cryptocurrency website template desi
 This project is open-source and free to use for personal and commercial projects.
 
 ## Contact
-For any inquiries, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, feel free to reach out at [mohitlakhara78500.com](mailto:mohitlakhara78500.com).
